@@ -19,7 +19,7 @@ public class SquareShapeActivity extends AppCompatActivity{
     private float n1;
     private float n2;
     private float resultado;
-    public static final float EXTRA_ALTURA ;
+    public static final String EXTRA_ALTURA = "altura" ;
     public static final String EXTRA_LARGURA = "largura";
     public static final String EXTRA_RESULTADO = "resultado";
 
