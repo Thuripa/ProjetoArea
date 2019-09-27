@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ProjetoArea</string>
+    <string name="titulo">Calculadora de Área</string>
+    <string name="subtitulo">Selecione a forma a ser calculada</string>
+    <string name="quadrado">Quadrado</string>
+    <string name="triangulo">Triângulo</string>
+    <string name="circulo">círculo</string>
+    <string name="Btnseguinte">Seguinte</string>
+    <string name="lblAreaQuadrado">Área do Quadrado</string>
+    <string name="lblAltura">Insira o valor do largura</string>
+    <string name="lblTxtLargura">Largura</string>
+    <string name="lblLargura">Insira o valor da Largura</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="lblValAltura">Insira o valor da Altura</string>
+    <string name="Titulo">Área do triângulo</string>
+    <string name="Titulo2">Área do Triãngulo</string>
+    <string name="lblBase">Insira o valor da base</string>
+    <string name="lblValAltura2">Inserir Altura</string>
+    <string name="lblInsiraValAltura">Insira o valor da Altura</string>
+    <string name="lblInserirBase">Inserir base</string>
+    <string name="lblAreaCirculo">Área do Círculo</string>
+    <string name="lblInsiraValorRaio">Insira o valor do raio</string>
+    <string name="lblRaio">Raio</string>
+    <string name="btnCalcular1">Calcular</string>
+    <string name="lblSelecao">Seleção:</string>
+    <string name="lblAreaTotal">Área Total:</string>
+    <string name="bolinha">Círculo</string>
+    <string name="jangada">Raio:</string>
+    <string name="tinh">Largura</string>
+    <string name="ksjfkjfvsd">Largura:</string>
+    <string name="ojhv">Altura:</string>
+    <string name="affsa">Base:</string>
+    <string name="nçdbndç">Altura:</string>
+</resources>
